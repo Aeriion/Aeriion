@@ -4,21 +4,12 @@
 
 ## 🛠 Tech Stack
 
-### Backend
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50" />
-
-
-
-
-
-
-
-
 ### Frontend
 
-
-
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" width="50" height="50" />
+
+### Backend
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50" />
 
 ### DevOps & Tools
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50" height="50" />  
