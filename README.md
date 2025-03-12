@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jenkins-colored.svg" width="50" height="50" />
 
 ### Databases
-<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="50" height="50" />
+
 
 ## 📊 GitHub Stats
 ![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
