@@ -5,7 +5,9 @@
 ## 🛠 Tech Stack
 
 ### Backend
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="50" height="50" />
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50" />
+
+
 
 
 ### Frontend
