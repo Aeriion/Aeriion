@@ -6,7 +6,7 @@
 
 ### Frontend
 
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" width="50" height="50" />
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" width="50" height="50" />
 
 
 
