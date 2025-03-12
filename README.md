@@ -1,6 +1,6 @@
 ﻿# 👋 Hello, I'm Maxime!
 
-🚀 Backend Developer | Java | Spring | JEE | Jenkins | Maven | Junit
+🚀 Fullstack Developer
 
 ## 🛠 Tech Stack
 
