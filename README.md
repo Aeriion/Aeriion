@@ -6,8 +6,10 @@
 
 ### Backend
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="50" height="50" />  
-<img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/dot-net-colored.svg" width="50" height="50" />
+
+### Frontend
+<img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" /><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" width="50" height="50" />
 
 ### DevOps & Tools
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50" height="50" />  
